@@ -264,6 +264,17 @@ local function C_17()
 local script = G2L["17"];
 
 	local powers = {
+        ["Rebirth"] = {
+			[1] = "Dark Flames",
+			[2] = "Draedon's Tech",
+			[3] = "Yoru",
+			[4] = "Plasma Orbs",
+			[5] = "Red Saucer",
+			[6] = "Undead Staff"
+		},
+        ["Gamepass"] = {
+			[1] = "Cruel Sun"
+		},
 		["Lava"] = {
 			[1] = "Lava Katana",
 			[2] = "Lava Ball",
